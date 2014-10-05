@@ -10,7 +10,7 @@
 ## rjstat
 * **Language:**	R
 * **Address:**	[https://github.com/ajschumacher/rjstat](https://github.com/ajschumacher/rjstat)
-* **Author:**	[Aaron Schumacher](https://github.com/ajschumacher)
+* **Author:**	[Aaron Schumacher](https://github.com/ajschumacher), [Håkon Malmedal](https://github.com/hmalmedal)
 
 ## json-stat.java
 * **Language:**	Java
