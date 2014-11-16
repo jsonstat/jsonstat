@@ -1,6 +1,5 @@
 # JSON-stat GitHub Repository
 
-
 ## JSON-stat Javascript Toolkit
 
 * **Language:**	Javascript
@@ -16,3 +15,8 @@
 * **Language:**	Java
 * **Address:**	[https://github.com/hamnis/json-stat.java](https://github.com/hamnis/json-stat.java)
 * **Author:**	[Erlend Hamnaberg](https://github.com/hamnis)
+
+## pyjstat
+* **Language:**	Python
+* **Address:**	[https://pypi.python.org/pypi/pyjstat/](https://pypi.python.org/pypi/pyjstat/)
+* **Author:**	[Miguel Expósito Martín](https://twitter.com/predicador37)
