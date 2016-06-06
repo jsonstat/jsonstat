@@ -1,6 +1,6 @@
 # JSON-stat GitHub Repository
 
-## JSON-stat Javascript Toolkit
+## JSON-stat Javascript Toolkit & Utilities Suite
 
 * **Language:**	Javascript
 * **Address:**	[https://github.com/badosa/JSON-stat](https://github.com/badosa/JSON-stat)
@@ -11,12 +11,17 @@
 * **Address:**	[https://github.com/ajschumacher/rjstat](https://github.com/ajschumacher/rjstat)
 * **Author:**	[Aaron Schumacher](https://github.com/ajschumacher), [Håkon Malmedal](https://github.com/hmalmedal)
 
-## json-stat.java
-* **Language:**	Java
-* **Address:**	[https://github.com/hamnis/json-stat.java](https://github.com/hamnis/json-stat.java)
-* **Author:**	[Erlend Hamnaberg](https://github.com/hamnis)
-
 ## pyjstat
 * **Language:**	Python
 * **Address:**	[https://pypi.python.org/pypi/pyjstat/](https://pypi.python.org/pypi/pyjstat/)
 * **Author:**	[Miguel Expósito Martín](https://twitter.com/predicador37)
+
+## jsonstat.py
+* **Language:**	Python
+* **Address:**	[https://github.com/26fe/jsonstat.py](https://github.com/26fe/jsonstat.py)
+* **Author:**	[Giovanni F.](http://www.26fe.com/)
+
+## json-stat.java
+* **Language:**	Java
+* **Address:**	[https://github.com/hamnis/json-stat.java](https://github.com/hamnis/json-stat.java)
+* **Author:**	[Erlend Hamnaberg](https://github.com/hamnis)
