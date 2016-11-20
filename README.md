@@ -6,6 +6,11 @@
 * **Address:**	[https://github.com/badosa/JSON-stat](https://github.com/badosa/JSON-stat)
 * **Author:**	[Xavier Badosa](https://github.com/badosa)
 
+## json-stat.java
+* **Language:**	Java
+* **Address:**	[https://github.com/statisticsnorway/json-stat.java](https://github.com/statisticsnorway/json-stat.java)
+* **Author:**	[Erlend Hamnaberg](https://github.com/hamnis), [Hadrien Kohl](https://github.com/hadrienk), [Statistics Norway](https://github.com/statisticsnorway)
+
 ## rjstat
 * **Language:**	R
 * **Address:**	[https://github.com/ajschumacher/rjstat](https://github.com/ajschumacher/rjstat)
@@ -20,8 +25,3 @@
 * **Language:**	Python
 * **Address:**	[https://github.com/26fe/jsonstat.py](https://github.com/26fe/jsonstat.py)
 * **Author:**	[Giovanni F.](http://www.26fe.com/)
-
-## json-stat.java
-* **Language:**	Java
-* **Address:**	[https://github.com/hamnis/json-stat.java](https://github.com/hamnis/json-stat.java)
-* **Author:**	[Erlend Hamnaberg](https://github.com/hamnis)
