@@ -2,9 +2,9 @@
 
 ## JSON-stat Javascript Toolkit & Utilities Suite
 
-* **Language:**	Javascript
-* **Address:**	[https://github.com/badosa/JSON-stat](https://github.com/badosa/JSON-stat)
-* **Author:**	[Xavier Badosa](https://github.com/badosa)
+* **Language:**	JavaScript
+* **Address:**	[https://json-stat.com](https://json-stat.com)
+* **Author:**	[Xavier Badosa](https://xavierbadosa.com/)
 
 ## json-stat.java
 * **Language:**	Java
@@ -25,3 +25,9 @@
 * **Language:**	Python
 * **Address:**	[https://github.com/26fe/jsonstat.py](https://github.com/26fe/jsonstat.py)
 * **Author:**	[Giovanni F.](http://www.26fe.com/)
+
+
+## JSONStat.jl
+* **Language:**	Julia
+* **Address:**	[https://github.com/klpn/JSONStat.jl](https://github.com/klpn/JSONStat.jl)
+* **Author:**	[Karl Pettersson](http://static-dust.klpn.se/)
