@@ -1,8 +1,7 @@
 # JSON-stat GitHub Repository
 
-## JSON-stat Javascript Toolkit & Utilities Suite
-
-* **Language:**	JavaScript
+## JSON-stat Javascript Toolkit & Utilities Suite, plus Command Line Conversion Tools
+* **Language:**	JavaScript, Command Line
 * **Address:**	[https://json-stat.com](https://json-stat.com)
 * **Author:**	[Xavier Badosa](https://xavierbadosa.com/)
 
