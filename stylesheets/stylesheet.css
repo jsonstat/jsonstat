@@ -53,11 +53,11 @@ Nevis font
 
 @font-face {
 	font-family: 'nevis';
-	src: url('//json-stat.com/fonts/nevis-webfont.eot');
-	src: url('//json-stat.com/fonts/nevis-webfont.eot?#iefix') format('embedded-opentype'),
-		url('//json-stat.com/fonts/nevis-webfont.woff') format('woff'),
-		url('//json-stat.com/fonts/nevis-webfont.ttf') format('truetype'),
-		url('//json-stat.com/fonts/nevis-webfont.svg#nevis') format('svg');
+	src: url('//jsonstat.com/fonts/nevis-webfont.eot');
+	src: url('//jsonstat.com/fonts/nevis-webfont.eot?#iefix') format('embedded-opentype'),
+		url('//jsonstat.com/fonts/nevis-webfont.woff') format('woff'),
+		url('//jsonstat.com/fonts/nevis-webfont.ttf') format('truetype'),
+		url('//jsonstat.com/fonts/nevis-webfont.svg#nevis') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
