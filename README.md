@@ -8,12 +8,12 @@
 ## json-stat.java
 * **Language:**	Java
 * **Address:**	[https://github.com/statisticsnorway/json-stat.java](https://github.com/statisticsnorway/json-stat.java)
-* **Author:**	[Erlend Hamnaberg](https://github.com/hamnis), [Hadrien Kohl](https://github.com/hadrienk), [Statistics Norway](https://github.com/statisticsnorway)
+* **Authors:**	[Erlend Hamnaberg](https://github.com/hamnis), [Hadrien Kohl](https://github.com/hadrienk), [Statistics Norway](https://github.com/statisticsnorway)
 
 ## rjstat
 * **Language:**	R
 * **Address:**	[https://github.com/ajschumacher/rjstat](https://github.com/ajschumacher/rjstat)
-* **Author:**	[Aaron Schumacher](https://github.com/ajschumacher), [Håkon Malmedal](https://github.com/hmalmedal)
+* **Authors:**	[Aaron Schumacher](https://github.com/ajschumacher), [Håkon Malmedal](https://github.com/hmalmedal)
 
 ## pyjstat
 * **Language:**	Python
@@ -30,3 +30,8 @@
 * **Language:**	Julia
 * **Address:**	[https://github.com/klpn/JSONStat.jl](https://github.com/klpn/JSONStat.jl)
 * **Author:**	[Karl Pettersson](http://static-dust.klpn.se/)
+
+## Eurostat R package
+* **Language:**	R
+* **Address:**	[https://ropengov.github.io/eurostat/](https://ropengov.github.io/eurostat/)
+* **Authors:**	[Leo Lahti](https://github.com/antagomir), [Janne Huovari](https://github.com/jhuovari), [Markus Kainu](https://github.com/muuankarski), [Przemyslaw Biecek](https://github.com/pbiecek) et al.
