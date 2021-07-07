@@ -26,4 +26,4 @@ The JSON-stat Toolkit is a set of tools for the JSON-stat format:
 
 **[JSON-stat Subsetter](https://jsonstat.com/subsetter/)** is a web tool to view, filter and export the contents of JSON-stat documents.
 
-**[JSON-stat Eurostat](https://jsonstat.com/eurostat/)** is a Swiss Army Knife for Eurostat’s data: retrieve, filter, download ane convert data from the European statistical office or build the customized API query, all from a single place.
+**[JSON-stat Eurostat](https://jsonstat.com/eurostat/)** is a Swiss Army Knife for Eurostat’s data: retrieve, filter, download and convert data from the European statistical office or build the customized API query, all from a single place.
